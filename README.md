@@ -35,8 +35,8 @@ It uses convolutional neural networks (CNNs) trained on an RGB dataset of Arabic
 Images captured during live demos showing recognized Arabic letters with their prediction accuracies.
 
 <p align="center">
-  <img src="demo_images/demo1.png" width="320" alt="Arabic sign demo 1">
-  <img src="demo_images/demo2.png" width="320" alt="Arabic sign demo 2"><br>
+  <img src="demo_images/Arabic_Letters_Demo15.jpeg" width="320" alt="Arabic sign demo 1">
+  <img src="demo_images/Arabic_Letters_Demo17.jpeg" width="320" alt="Arabic sign demo 2"><br>
   <em>Real-time detection of Arabic letters using camera input.</em>
 </p>
 
